@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 4a9459f266fbe8e4f887311cd94d7308
+timeCreated: 1521237624
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: Cortadora1
+    100006: Cortadora2
+    100008: Cortadora3
+    100010: Cortadora4
+    100012: Cortadora5
+    100014: Lamp
+    400000: Camera
+    400002: //RootNode
+    400004: Cortadora1
+    400006: Cortadora2
+    400008: Cortadora3
+    400010: Cortadora4
+    400012: Cortadora5
+    400014: Lamp
+    2000000: Camera
+    2300000: Cortadora1
+    2300002: Cortadora2
+    2300004: Cortadora3
+    2300006: Cortadora4
+    2300008: Cortadora5
+    3300000: Cortadora1
+    3300002: Cortadora2
+    3300004: Cortadora3
+    3300006: Cortadora4
+    3300008: Cortadora5
+    4300000: Cortadora5
+    4300002: Cortadora4
+    4300004: Cortadora3
+    4300006: Cortadora2
+    4300008: Cortadora1
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GoB_Cortadora1
+    second: {fileID: 2100000, guid: 46b7da0ece188d342989f2040b577978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GoB_Cortadora2.001
+    second: {fileID: 2100000, guid: e3941dd98b364b44e8bf6cb39f774043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GoB_Cortadora3
+    second: {fileID: 2100000, guid: c2953a3d702cc1441b6bb003bc7b109c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GoB_Cortadora4
+    second: {fileID: 2100000, guid: 8b197fd82a7019f4882c3584be029e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GoB_Cortadora5
+    second: {fileID: 2100000, guid: 7d6e4f60859a5b94198979500be34fd3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

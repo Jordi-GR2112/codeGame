@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3dc31d91eba587642afe83c19e53eb2a
+timeCreated: 1519226761
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Animated
+  fontNames:
+  - Animated
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: aba5af322564208419a7de841b6a59cd
+timeCreated: 1523543534
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bouton
+    100002: bouton_1
+    100004: bouton_2
+    100006: bouton_3
+    100008: bouton_4
+    100010: bouton_5
+    100012: bouton_6
+    100014: bouton_7
+    100016: //RootNode
+    100018: corniche_basse
+    100020: corniche_haute
+    100022: corps
+    100024: Cube
+    100026: pied
+    100028: pied_1
+    100030: pied_2
+    100032: pied_3
+    100034: tiroir_2
+    100036: tiroir_3
+    100038: tiroir_4d
+    100040: tiroir_4g
+    100042: tiroir_bas_1
+    400000: bouton
+    400002: bouton_1
+    400004: bouton_2
+    400006: bouton_3
+    400008: bouton_4
+    400010: bouton_5
+    400012: bouton_6
+    400014: bouton_7
+    400016: //RootNode
+    400018: corniche_basse
+    400020: corniche_haute
+    400022: corps
+    400024: Cube
+    400026: pied
+    400028: pied_1
+    400030: pied_2
+    400032: pied_3
+    400034: tiroir_2
+    400036: tiroir_3
+    400038: tiroir_4d
+    400040: tiroir_4g
+    400042: tiroir_bas_1
+    2300000: bouton
+    2300002: bouton_1
+    2300004: bouton_2
+    2300006: bouton_3
+    2300008: bouton_4
+    2300010: bouton_5
+    2300012: bouton_6
+    2300014: bouton_7
+    2300016: corniche_basse
+    2300018: corniche_haute
+    2300020: corps
+    2300022: Cube
+    2300024: pied
+    2300026: pied_1
+    2300028: pied_2
+    2300030: pied_3
+    2300032: tiroir_2
+    2300034: tiroir_3
+    2300036: tiroir_4d
+    2300038: tiroir_4g
+    2300040: tiroir_bas_1
+    3300000: bouton
+    3300002: bouton_1
+    3300004: bouton_2
+    3300006: bouton_3
+    3300008: bouton_4
+    3300010: bouton_5
+    3300012: bouton_6
+    3300014: bouton_7
+    3300016: corniche_basse
+    3300018: corniche_haute
+    3300020: corps
+    3300022: Cube
+    3300024: pied
+    3300026: pied_1
+    3300028: pied_2
+    3300030: pied_3
+    3300032: tiroir_2
+    3300034: tiroir_3
+    3300036: tiroir_4d
+    3300038: tiroir_4g
+    3300040: tiroir_bas_1
+    4300000: bouton_1
+    4300002: tiroir_3
+    4300004: bouton_6
+    4300006: corniche_haute
+    4300008: tiroir_bas_1
+    4300010: bouton_3
+    4300012: pied_3
+    4300014: pied_2
+    4300016: bouton_7
+    4300018: corniche_basse
+    4300020: corps
+    4300022: pied
+    4300024: tiroir_2
+    4300026: pied_1
+    4300028: bouton_4
+    4300030: bouton_5
+    4300032: tiroir_4g
+    4300034: bouton
+    4300036: bouton_2
+    4300038: tiroir_4d
+    4300040: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

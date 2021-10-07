@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Test/mundos/Main_Menu.unity
+    guid: d8fd445f268dd6a448c0d907eed6fea6
+  - enabled: 1
+    path: Assets/Test/mundos/ModeSelector.unity
+    guid: 8ec18bb54a001664197afd5504396ec7
+  - enabled: 1
+    path: Assets/Test/Scratch_like_test.unity
+    guid: 4a877c9dbf0629b4090b54aab75ad2d6
+  - enabled: 1
+    path: Assets/Test/mundos/Elegir_Mundo.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Test/mundos/LevelSelector.unity
+    guid: 9390d21f6eee6004e9e003f2b2ed7e44
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.1.unity
+    guid: 95c62a72ac70e1f4f9cbb921ca673ae0
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.2.unity
+    guid: 7328eda09ce7bb040936445b26b9fa26
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.3.unity
+    guid: 49f5c079996414249bd721cf32499479
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.4.unity
+    guid: a9d082f4522eab749bd902b22b328035
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.5.unity
+    guid: 6c1dc664fb9dab8438e30cdd81913136
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.6.unity
+    guid: baeb0b2ba2cd6bf44a70c05c9d87bad5
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.7.unity
+    guid: 31dedc4ded793f24ca4f3418f17c39a4
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.8.unity
+    guid: 25c78dfee5b0e894888344f068258178
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.9.unity
+    guid: cfed5d64c4117bc4e90f7a7c012acad6
+  - enabled: 1
+    path: Assets/Test/mundos/Campo/L1.10.unity
+    guid: 36c46fec171c2e94c8c05284701462c2
+  - enabled: 1
+    path: Assets/Test/mundos/EndLevel.unity
+    guid: 85abedb3101bf2544a358ebeb97e638d

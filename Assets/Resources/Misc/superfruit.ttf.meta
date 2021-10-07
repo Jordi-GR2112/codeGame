@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d587148762bc31c4ab380d65b90b8a57
+timeCreated: 1519229495
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Superfruit
+  fontNames:
+  - Superfruit
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

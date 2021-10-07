@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 247ce17a6e99c574e97dc4bf76922596
+timeCreated: 1519235629
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Janda Manatee Bubble
+  fontNames:
+  - Janda Manatee Bubble
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 982969893a7292a46bfb305128fa4566
+timeCreated: 1521651636
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box11_3
+    100002: Box12_10
+    100004: Box13_8
+    100006: Camera
+    100008: ChamferBox01_6
+    100010: ChamferBox02_7
+    100012: ChamferCyl01_11
+    100014: ChamferCyl02_12
+    100016: ChamferCyl03_13
+    100018: ChamferCyl04_14
+    100020: ChamferCyl05_15
+    100022: //RootNode
+    100024: Lamp
+    100026: Line15_1
+    100028: Line30_29
+    100030: Loft05_9
+    100032: ChamferCyl03_13.001
+    100034: ChamferCyl03_13.002
+    100036: ChamferCyl04_14.001
+    400000: Box11_3
+    400002: Box12_10
+    400004: Box13_8
+    400006: Camera
+    400008: ChamferBox01_6
+    400010: ChamferBox02_7
+    400012: ChamferCyl01_11
+    400014: ChamferCyl02_12
+    400016: ChamferCyl03_13
+    400018: ChamferCyl04_14
+    400020: ChamferCyl05_15
+    400022: //RootNode
+    400024: Lamp
+    400026: Line15_1
+    400028: Line30_29
+    400030: Loft05_9
+    400032: ChamferCyl03_13.001
+    400034: ChamferCyl03_13.002
+    400036: ChamferCyl04_14.001
+    2000000: Camera
+    2300000: Box11_3
+    2300002: Box12_10
+    2300004: Box13_8
+    2300006: ChamferBox01_6
+    2300008: ChamferBox02_7
+    2300010: ChamferCyl01_11
+    2300012: ChamferCyl02_12
+    2300014: ChamferCyl03_13
+    2300016: ChamferCyl04_14
+    2300018: ChamferCyl05_15
+    2300020: Line15_1
+    2300022: Line30_29
+    2300024: Loft05_9
+    2300026: ChamferCyl03_13.001
+    2300028: ChamferCyl03_13.002
+    2300030: ChamferCyl04_14.001
+    3300000: Box11_3
+    3300002: Box12_10
+    3300004: Box13_8
+    3300006: ChamferBox01_6
+    3300008: ChamferBox02_7
+    3300010: ChamferCyl01_11
+    3300012: ChamferCyl02_12
+    3300014: ChamferCyl03_13
+    3300016: ChamferCyl04_14
+    3300018: ChamferCyl05_15
+    3300020: Line15_1
+    3300022: Line30_29
+    3300024: Loft05_9
+    3300026: ChamferCyl03_13.001
+    3300028: ChamferCyl03_13.002
+    3300030: ChamferCyl04_14.001
+    4300000: ChamferCyl02_12
+    4300002: Line15_1
+    4300004: ChamferBox01_6
+    4300006: ChamferCyl04_14
+    4300008: ChamferBox02_7
+    4300010: ChamferCyl01_11
+    4300012: Loft05_9
+    4300014: Box11_3
+    4300016: Line30_29
+    4300018: Box12_10
+    4300020: Box13_8
+    4300022: ChamferCyl05_15
+    4300024: ChamferCyl03_13
+    4300026: ChamferCyl04_14.001
+    4300028: ChamferCyl03_13.002
+    4300030: ChamferCyl03_13.001
+    10800000: Lamp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

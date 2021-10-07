@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: b1be650696510fb42a95c07b8ccf1d75
+timeCreated: 1522284525
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Lamp
+    100002: librero
+    100004: //RootNode
+    100006: librero.001
+    100008: librero.002
+    100010: librero.003
+    100012: librero.004
+    100014: librero.005
+    100016: librero.006
+    100018: back
+    100020: bottom_shelf
+    100022: green_book
+    100024: green_book_2
+    100026: left_side
+    100028: middle_shelf
+    100030: orange_book
+    100032: orange_book_2
+    100034: red_book
+    100036: red_book_2
+    100038: right_side
+    100040: top
+    100042: white_book
+    400000: Lamp
+    400002: librero
+    400004: //RootNode
+    400006: librero.001
+    400008: librero.002
+    400010: librero.003
+    400012: librero.004
+    400014: librero.005
+    400016: librero.006
+    400018: back
+    400020: bottom_shelf
+    400022: green_book
+    400024: green_book_2
+    400026: left_side
+    400028: middle_shelf
+    400030: orange_book
+    400032: orange_book_2
+    400034: red_book
+    400036: red_book_2
+    400038: right_side
+    400040: top
+    400042: white_book
+    2300000: librero
+    2300002: librero.001
+    2300004: librero.002
+    2300006: librero.003
+    2300008: librero.004
+    2300010: librero.005
+    2300012: librero.006
+    2300014: back
+    2300016: bottom_shelf
+    2300018: green_book
+    2300020: green_book_2
+    2300022: left_side
+    2300024: middle_shelf
+    2300026: orange_book
+    2300028: orange_book_2
+    2300030: red_book
+    2300032: red_book_2
+    2300034: right_side
+    2300036: top
+    2300038: white_book
+    3300000: librero
+    3300002: librero.001
+    3300004: librero.002
+    3300006: librero.003
+    3300008: librero.004
+    3300010: librero.005
+    3300012: librero.006
+    3300014: back
+    3300016: bottom_shelf
+    3300018: green_book
+    3300020: green_book_2
+    3300022: left_side
+    3300024: middle_shelf
+    3300026: orange_book
+    3300028: orange_book_2
+    3300030: red_book
+    3300032: red_book_2
+    3300034: right_side
+    3300036: top
+    3300038: white_book
+    4300000: librero.006
+    4300002: librero.005
+    4300004: librero.004
+    4300006: librero.003
+    4300008: librero.002
+    4300010: librero.001
+    4300012: librero
+    4300014: top
+    4300016: green_book
+    4300018: left_side
+    4300020: red_book_2
+    4300022: red_book
+    4300024: middle_shelf
+    4300026: orange_book_2
+    4300028: green_book_2
+    4300030: right_side
+    4300032: orange_book
+    4300034: bottom_shelf
+    4300036: back
+    4300038: white_book
+    10800000: Lamp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

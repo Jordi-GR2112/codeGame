@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 84b287c4ad4b3e14b9211fd3d93a352d
+timeCreated: 1523545127
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: iBook_bottom_iBook_bottom_Aluminum
+    100002: iBook_bottom_iBook_bottom_White_plastic
+    100004: iBook_keyboard_iBook_keyboard_White_plastic
+    100006: iBook_lid_iBook_lid_Aluminum
+    100008: iBook_lid_iBook_lid_LCD
+    100010: iBook_lid_iBook_lid_White_plastic
+    100012: Keyboard_flats_Keyboard_flats_White_plastic
+    100014: //RootNode
+    100016: power_button_power_button_White_plastic
+    400000: iBook_bottom_iBook_bottom_Aluminum
+    400002: iBook_bottom_iBook_bottom_White_plastic
+    400004: iBook_keyboard_iBook_keyboard_White_plastic
+    400006: iBook_lid_iBook_lid_Aluminum
+    400008: iBook_lid_iBook_lid_LCD
+    400010: iBook_lid_iBook_lid_White_plastic
+    400012: Keyboard_flats_Keyboard_flats_White_plastic
+    400014: //RootNode
+    400016: power_button_power_button_White_plastic
+    2300000: iBook_bottom_iBook_bottom_Aluminum
+    2300002: iBook_bottom_iBook_bottom_White_plastic
+    2300004: iBook_keyboard_iBook_keyboard_White_plastic
+    2300006: iBook_lid_iBook_lid_Aluminum
+    2300008: iBook_lid_iBook_lid_LCD
+    2300010: iBook_lid_iBook_lid_White_plastic
+    2300012: Keyboard_flats_Keyboard_flats_White_plastic
+    2300014: power_button_power_button_White_plastic
+    3300000: iBook_bottom_iBook_bottom_Aluminum
+    3300002: iBook_bottom_iBook_bottom_White_plastic
+    3300004: iBook_keyboard_iBook_keyboard_White_plastic
+    3300006: iBook_lid_iBook_lid_Aluminum
+    3300008: iBook_lid_iBook_lid_LCD
+    3300010: iBook_lid_iBook_lid_White_plastic
+    3300012: Keyboard_flats_Keyboard_flats_White_plastic
+    3300014: power_button_power_button_White_plastic
+    4300000: iBook_bottom_iBook_bottom_Aluminum
+    4300002: iBook_bottom_iBook_bottom_White_plastic
+    4300004: iBook_lid_iBook_lid_LCD
+    4300006: iBook_keyboard_iBook_keyboard_White_plastic
+    4300008: power_button_power_button_White_plastic
+    4300010: iBook_lid_iBook_lid_Aluminum
+    4300012: Keyboard_flats_Keyboard_flats_White_plastic
+    4300014: iBook_lid_iBook_lid_White_plastic
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

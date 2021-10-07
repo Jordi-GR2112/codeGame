@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: c6e5a83454801cb439e6d9cdfc38228b
+timeCreated: 1521237285
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: //RootNode
+    100004: Camera
+    100006: l_eye
+    100008: Lamp
+    100010: Legs
+    100012: r_eye
+    100014: torso
+    100016: Vulture
+    400000: Body
+    400002: //RootNode
+    400004: Camera
+    400006: l_eye
+    400008: Lamp
+    400010: Legs
+    400012: r_eye
+    400014: torso
+    400016: Vulture
+    2000000: Camera
+    2300000: Body
+    2300002: l_eye
+    2300004: Legs
+    2300006: r_eye
+    2300008: torso
+    3300000: Body
+    3300002: l_eye
+    3300004: Legs
+    3300006: r_eye
+    3300008: torso
+    4300000: r_eye
+    4300002: l_eye
+    4300004: torso
+    4300006: Body
+    4300008: Legs
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buitre_blinn15
+    second: {fileID: 2100000, guid: 8382926bf8761ec4880cb969b37ec9a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buitre_blinn16
+    second: {fileID: 2100000, guid: 08feef4936e16b245a9ebf6b7cf94832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buitre_blinn17
+    second: {fileID: 2100000, guid: bb685dc241e7fd944800180c9544a57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buitre_blinn18
+    second: {fileID: 2100000, guid: 442298360c49a334c9188f5a73905133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buitre_blinn19
+    second: {fileID: 2100000, guid: 9fb4bc9081705f244929649dbf8c1b1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buitre_blinn2
+    second: {fileID: 2100000, guid: 29060de108e73a2478bbcace202fe4ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buitre_blinn3
+    second: {fileID: 2100000, guid: 915210dd7d7e7bc4aac4e7b863e8889b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: accb823733d33e74e80a0a55996f038b
+timeCreated: 1519229526
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: rapid mental thursday
+  fontNames:
+  - rapid mental thursday
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

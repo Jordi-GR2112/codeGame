@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1693702977761852}
+  m_IsPrefabParent: 1
+--- !u!1 &1693702977761852
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4958853499678136}
+  - component: {fileID: 114650717193069520}
+  - component: {fileID: 114486370521516728}
+  - component: {fileID: 114943915465752540}
+  m_Layer: 0
+  m_Name: _GM_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4958853499678136
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1693702977761852}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &114486370521516728
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1693702977761852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0365d69e302e9f4685d9226d87c7990, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  touchGM: 1
+  maxInputs: 8
+  startPoint: {fileID: 0}
+  goalPoint: {fileID: 0}
+  PickableGoal: 3
+  EjecutarUI: {fileID: 0}
+  DetenerUI: {fileID: 0}
+  pickScore: {fileID: 0}
+  particles: {fileID: 0}
+  GameModeAdventure: 1
+--- !u!114 &114650717193069520
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1693702977761852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1b01fadfc229c74b99de102f5872625, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RotOffset: 180
+  myScrollrect: {fileID: 0}
+  mat: {fileID: 2100000, guid: 213f0f2beb3d5f04e9ebaf6adb30d2ce, type: 2}
+--- !u!114 &114943915465752540
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1693702977761852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 174b797c521bc5848a827dc8d826c2a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fader: {fileID: 0}
+  UIelements:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  Notificacion: {fileID: 0}

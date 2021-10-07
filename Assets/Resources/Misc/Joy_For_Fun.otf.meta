@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c9af0c08df719214ab607b97936c7794
+timeCreated: 1519234241
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Joy For Fun
+  fontNames:
+  - Joy For Fun
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
